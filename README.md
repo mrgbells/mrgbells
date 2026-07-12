@@ -9,8 +9,8 @@ Open to cybersecurity internships or co-ops (offensive security, cloud, AI/LLM r
 [Portfolio](https://abelchigombe.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/abelchigombe) · [Medium](https://medium.com/@abelchigombetatenda) · [Email](mailto:chigombe.a@northeastern.edu)
 
 ![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-6b7280?style=flat-square)
-![PNPT](https://img.shields.io/badge/PNPT-Certified-b91c1c?style=flat-square)
-![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Certified-2563eb?style=flat-square)
+[![PNPT](https://img.shields.io/badge/PNPT-Certified-b91c1c?style=flat-square)](https://certified.tcm-sec.com/cd35cbba-17cd-41af-a153-ce639be08c68#acc.U8w40HAD)
+[![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Certified-2563eb?style=flat-square)](https://www.credly.com/badges/460ed457-67a9-4f3e-9f64-79b79f4d80dd/)
 
 </div>
 
