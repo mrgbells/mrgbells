@@ -2,7 +2,7 @@
 
 # Hi, I'm Abel Chigombe
 
-**Penetration Tester (PNPT, Security+) · MSc Cybersecurity Candidate @ Northeastern · AI/LLM Security**
+**Penetration Tester (PNPT, Security+, CNSP, CSEDP) · MSc Cybersecurity Candidate @ Northeastern · AI/LLM Security**
 
 Open to cybersecurity internships or co-ops (offensive security, cloud, AI/LLM red teaming, GRC, SOC, threat intelligence)
 
@@ -11,6 +11,8 @@ Open to cybersecurity internships or co-ops (offensive security, cloud, AI/LLM r
 ![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-6b7280?style=flat-square)
 [![PNPT](https://img.shields.io/badge/PNPT-Certified-b91c1c?style=flat-square)](https://certified.tcm-sec.com/cd35cbba-17cd-41af-a153-ce639be08c68#acc.U8w40HAD)
 [![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Certified-2563eb?style=flat-square)](https://www.credly.com/badges/460ed457-67a9-4f3e-9f64-79b79f4d80dd/)
+[![CNSP](https://img.shields.io/badge/CNSP-Certified-047857?style=flat-square)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXam/Dc8w1rWCq7me17jRBWfEmsOW8FZHGkvpvknXwyUa2DInR4J7AHCsnZTzQIJOYDGLRj0WKkGfpB8u3B1PMgU=)
+[![CSEDP](https://img.shields.io/badge/CSEDP-Certified-7c3aed?style=flat-square)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXZ5kDyi3ze7efxRP/39R+uuY8KI4tvvfcXt2JLsa4CwmCqNZEcVHCT0B01jVg4UvoM1uoesV9ux+7BwsVBppsow=)
 
 </div>
 
@@ -18,15 +20,18 @@ Open to cybersecurity internships or co-ops (offensive security, cloud, AI/LLM r
 
 ## About
 
-I'm an offensive security practitioner with 3+ years of hands-on penetration testing experience across 20+ client engagements at **Baker Tilly Central Africa** (web application, network, and infrastructure VAPT across Southern Africa), and prior experience as a **Cybersecurity Research and Teaching Assistant** at the University of Zimbabwe, where I built Docker-based CTF infrastructure and taught ethical hacking and information systems audit.
+I'm an offensive security practitioner with **5+ years** of hands-on penetration testing experience across **100+ client engagements** at **Baker Tilly Central Africa**, where I progressed from Penetration Tester to Security Consultant delivering web application, network, infrastructure and cloud VAPT for enterprise clients across Zimbabwe, Zambia, Botswana, Malawi and Eswatini.
+
+Along the way I compromised 20+ internal Active Directory environments, ran social engineering and phishing simulation campaigns, and mentored 12+ associate penetration testers on methodology, tooling and report writing. Alongside the consulting work I served as a **Cybersecurity Research and Teaching Assistant** at the University of Zimbabwe, building Docker-based CTF infrastructure and teaching ethical hacking and information systems audit.
 
 I'm now an MSc Cybersecurity student at Northeastern University. Most of my personal project time goes toward the attack surface most pentesters aren't testing yet: AI and LLM systems, alongside cloud security and Active Directory labs.
 
 ## What I work on
 
-- **Offensive Security** — network and web application penetration testing, Active Directory exploitation (Kerberoasting, Pass-the-Hash, ADCS abuse), adversary emulation mapped to MITRE ATT&CK
+- **Offensive Security** — network and web application penetration testing, Active Directory exploitation (Kerberoasting, ForceChangePassword/GenericAll ACL abuse, ADCS ESC1), adversary emulation mapped to MITRE ATT&CK
+- **Social Engineering** — phishing simulation campaigns using cloned login pages and typosquatted domains, and the security awareness training that follows
 - **AI/LLM Security** — prompt injection, jailbreak testing, RAG attack classification, LLM firewalls, mapped to the OWASP LLM Top 10
-- **Cloud Security** — AWS/GCP privilege escalation labs, policy-as-code compliance auditing, IAM and Workload Identity misconfiguration defense
+- **Cloud Security** — AWS, Azure and GCP penetration testing, privilege escalation labs, policy-as-code compliance auditing, IAM and Workload Identity misconfiguration defense
 - **Vulnerability Management** — end-to-end VM program design, Tenable Nessus, CVSS-based prioritization, remediation scripting
 
 ## Featured projects
@@ -44,11 +49,15 @@ I'm now an MSc Cybersecurity student at Northeastern University. Most of my pers
 
 See [all repositories](https://github.com/mrgbells?tab=repositories) for the full list.
 
+Full write-ups, including the [vulnerability management case study](https://abelchigombe.netlify.app/projects/vulnerability-management-program), are on my [portfolio](https://abelchigombe.netlify.app/projects).
+
 ## Writing
 
 - [How I Passed the PNPT on My First Attempt](https://medium.com/@abelchigombetatenda/how-i-passed-the-pnpt-practical-network-penetration-tester-exam-a-compliant-guide-to-success-3407924cef6b)
 - [Cracking the Security+ Exam: A Practical Blueprint for Success](https://medium.com/@abelchigombetatenda/cracking-the-security-exam-a-practical-blueprint-for-success-3cba87225646)
 - [Critical Infrastructure Risk Analysis: Cyber-Physical Resilience of the T-Mobile Boston Network](https://medium.com/@abelchigombetatenda/critical-infrastructure-risk-analysis-cyber-physical-resilience-of-the-t-mobile-boston-00003aead306)
+
+More posts, including the CNSP and CSEDP exam write-ups, are on my [blog](https://abelchigombe.netlify.app/blog).
 
 ## Let's connect
 
